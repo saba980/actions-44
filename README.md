@@ -46,3 +46,4 @@ Controllers are receiving all requests, after checking by validators. If request
 - You need export environment variables for mail provider: `CONFIG_MAIL_HOST`, `CONFIG_MAIL_PORT`, `CONFIG_MAIL_SMTP_AUTH`, `CONFIG_MAIL_STARTTLS`, `CONFIG_MAIL_USERNAME`, `CONFIG_MAIL_PASSWORD`.
 - In your terminal run `docker-compose up`, then  server starts on port `8000`
 
+# actions-44
